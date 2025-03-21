@@ -1,8 +1,8 @@
 
 
-<p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guiabbehusen&show_icons=true&locale=en&layout=compact&theme=dark" alt="guiabbehusen" /></p>
+<p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guiabbehusen&show_icons=true&locale=en&layout=compact&theme=nord" alt="guiabbehusen" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guiabbehusen&show_icons=true&locale=en&theme=dark" alt="guiabbehusen" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guiabbehusen&show_icons=true&locale=en&theme=nord" alt="guiabbehusen" /></p>
 
 
 <h3 align="left">Connect with me:</h3>
