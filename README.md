@@ -3,39 +3,54 @@
 
   <h1>Oi, eu sou o Gui 👋</h1>
 
-  <p>
-    IA aplicada · Visão Computacional · Agentes de IA · Dados
-  </p>
+  <!-- Typing -->
+  <a href="https://git.io/typing-svg" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=650&lines=IA+aplicada+%7C+Vis%C3%A3o+Computacional+%7C+Agentes;RAG%2FNLP+%7C+OpenCV%2C+YOLO;Jupyter+%E2%86%92+FastAPI%2FCLI+%E2%86%92+AWS;Sempre+contruindo+alguma+coisa+ai+%3A)" alt="Typing SVG" />
+  </a>
+
+  <br/>
 
   <!-- Social + views -->
-  <a href="https://linkedin.com/in/guiabbehusen" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-guiabbehusen-0A66C2?logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://instagram.com/guiabbehusen" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-@guiabbehusen-E4405F?logo=instagram&logoColor=white">
-  </a>
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=guiabbehusen&style=flat&color=8A2BE2">
+  <p>
+    <a href="https://linkedin.com/in/guiabbehusen" target="_blank">
+      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-guiabbehusen-0A66C2?logo=linkedin&logoColor=white">
+    </a>
+    <a href="https://instagram.com/guiabbehusen" target="_blank">
+      <img alt="Instagram" src="https://img.shields.io/badge/Instagram-@guiabbehusen-E4405F?logo=instagram&logoColor=white">
+    </a>
+    <img alt="Profile views" src="https://komarev.com/ghpvc/?username=guiabbehusen&style=flat&color=8A2BE2">
+  </p>
 
-  <br><br>
-
-  <!-- Stats -->
-  <img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=guiabbehusen&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=tokyonight" />
-  <img height="165" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=guiabbehusen&layout=compact&langs_count=8&card_width=320&hide_border=true&theme=tokyonight" />
+  <!-- Stats (dark/light) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=guiabbehusen&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=tokyonight" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=guiabbehusen&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=default" />
+    <img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=guiabbehusen&show_icons=true" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=guiabbehusen&layout=compact&langs_count=8&card_width=320&hide_border=true&theme=tokyonight" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=guiabbehusen&layout=compact&langs_count=8&card_width=320&hide_border=true&theme=default" />
+    <img height="165" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=guiabbehusen&layout=compact&langs_count=8" />
+  </picture>
 
 </div>
 
 ---
 
 ### 🧠 Sobre mim
-- **Faço IA aplicada**: visão computacional (YOLO/OpenCV), NLP/RAG e **agentes** (LangChain/LangGraph/Ollama).
-- **Do caderno pro mundo**: protótipo em Jupyter → FastAPI/CLI; automações serverless na **AWS** (Lambda + API Gateway).
-- **Pragmático**: hackathons (NASA Space Apps, EcoDrop, Forecast.IA), métricas claras e entrega com impacto.
+Gosto de filosofia existencialista
+
+Minha comida favotira é macarrão com molho de tomate 🍝
+
+Quando criança, sonhava com um telescópio pra olhar o sol......
+
+*Sempre contruindo alguma coisa ai :)*
 
 
 ---
 
 ### 🛠️ Tecnologias que realmente uso
-<p>
+<p align="left">
   <!-- Base científica / Python -->
   <img alt="Python" title="Python" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img alt="Jupyter" title="Jupyter" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/>
@@ -48,8 +63,11 @@
   <img alt="scikit-learn" title="scikit-learn" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg"/>
   <img alt="OpenCV" title="OpenCV" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"/>
 
-  <!-- Agentes / stack local -->
-  <!-- (sem ícone oficial) LangChain · LangGraph · Ollama · ChromaDB -->
+  <!-- Agentes / stack local (texto) -->
+  <img alt="LangChain" title="LangChain" src="https://img.shields.io/badge/LangChain-000?style=flat&logoColor=white" />
+  <img alt="LangGraph" title="LangGraph" src="https://img.shields.io/badge/LangGraph-111?style=flat" />
+  <img alt="Ollama" title="Ollama" src="https://img.shields.io/badge/Ollama-222?style=flat" />
+  <img alt="ChromaDB" title="ChromaDB" src="https://img.shields.io/badge/ChromaDB-333?style=flat" />
 
   <!-- Web quando necessário -->
   <img alt="TypeScript" title="TypeScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
@@ -57,8 +75,6 @@
 </p>
 
 ---
-
-
 
 ### 💬 Bora trocar ideia?
 <p>
