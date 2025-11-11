@@ -42,7 +42,7 @@ Gosto de filosofia existencialista
 
 Minha comida favotira é macarrão com molho de tomate 🍝
 
-Quando criança, sonhava com um telescópio pra olhar o sol......
+Quando criança, sonhava em ter um telescópio pra olhar o sol......
 
 *Sempre contruindo alguma coisa ai :)*
 
