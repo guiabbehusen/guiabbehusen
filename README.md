@@ -58,38 +58,7 @@
 
 ---
 
-### 📌 Projetos em destaque
-<!-- Cards oficiais dos seus repositórios -->
-<p>
-  <a href="https://github.com/guiabbehusen/Credit-card-fraud-Detection">
-    <img alt="Credit Card Fraud Detection" src="https://github-readme-stats.vercel.app/api/pin/?username=guiabbehusen&repo=Credit-card-fraud-Detection&hide_border=true&theme=tokyonight"/>
-  </a>
-  <a href="https://github.com/guiabbehusen/CNN_EPI">
-    <img alt="CNN_EPI (YOLOv8)" src="https://github-readme-stats.vercel.app/api/pin/?username=guiabbehusen&repo=CNN_EPI&hide_border=true&theme=tokyonight"/>
-  </a>
-</p>
 
-<p>
-  <a href="https://github.com/guiabbehusen/Local-AI-Agent">
-    <img alt="Local AI Agent (RAG)" src="https://github-readme-stats.vercel.app/api/pin/?username=guiabbehusen&repo=Local-AI-Agent&hide_border=true&theme=tokyonight"/>
-  </a>
-  <a href="https://github.com/guiabbehusen/Coding-AI-Agent">
-    <img alt="Coding AI Agent (LangChain/LangGraph)" src="https://github-readme-stats.vercel.app/api/pin/?username=guiabbehusen&repo=Coding-AI-Agent&hide_border=true&theme=tokyonight"/>
-  </a>
-</p>
-
-<p>
-  <a href="https://github.com/guiabbehusen/nasa-space-apps">
-    <img alt="NASA Space Apps (BreathSafe)" src="https://github-readme-stats.vercel.app/api/pin/?username=guiabbehusen&repo=nasa-space-apps&hide_border=true&theme=tokyonight"/>
-  </a>
-  <a href="https://github.com/guiabbehusen/Projeto-ML-1">
-    <img alt="Projeto-ML-1" src="https://github-readme-stats.vercel.app/api/pin/?username=guiabbehusen&repo=Projeto-ML-1&hide_border=true&theme=tokyonight"/>
-  </a>
-</p>
-
-<!-- Se quiser, fixe esses 6 no seu perfil (Customize your pins) -->
-
----
 
 ### 💬 Bora trocar ideia?
 <p>
