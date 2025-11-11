@@ -63,15 +63,12 @@ Quando criança, sonhava em ter um telescópio pra olhar o sol......
   <img alt="scikit-learn" title="scikit-learn" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg"/>
   <img alt="OpenCV" title="OpenCV" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"/>
 
-  <!-- Agentes / stack local (texto) -->
-  <img alt="LangChain" title="LangChain" src="https://img.shields.io/badge/LangChain-000?style=flat&logoColor=white" />
-  <img alt="LangGraph" title="LangGraph" src="https://img.shields.io/badge/LangGraph-111?style=flat" />
-  <img alt="Ollama" title="Ollama" src="https://img.shields.io/badge/Ollama-222?style=flat" />
-  <img alt="ChromaDB" title="ChromaDB" src="https://img.shields.io/badge/ChromaDB-333?style=flat" />
+
 
   <!-- Web quando necessário -->
   <img alt="TypeScript" title="TypeScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
   <img alt="Node.js" title="Node.js" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+  <img alt="Hugging Face" title="Hugging Face" src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue" />
 </p>
 
 ---
