@@ -49,7 +49,7 @@ Quando criança, sonhava em ter um telescópio pra olhar o sol......
 
 ---
 
-### 🛠️ Tecnologias que realmente uso
+### 🛠️ Tecnologias
 <p align="left">
   <!-- Base científica / Python -->
   <img alt="Python" title="Python" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
