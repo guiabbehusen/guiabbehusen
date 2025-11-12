@@ -38,7 +38,7 @@
 ---
 
 ### 🧠 Sobre mim
-Gosto de filosofia existencialista
+Gosto de filosofia!
 
 Minha comida favotira é macarrão com molho de tomate 🍝
 
