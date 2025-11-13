@@ -22,11 +22,11 @@
   </p>
 
   <!-- Stats (dark/light) -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=guiabbehusen&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=tokyonight" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=guiabbehusen&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=default" />
-    <img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=guiabbehusen&show_icons=true" />
-  </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=guiabbehusen&show_icons=true&rank_icon=github&hide_border=true&theme=tokyonight" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=guiabbehusen&show_icons=true&rank_icon=github&hide_border=true&theme=default" />
+  <img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=guiabbehusen&show_icons=true" />
+</picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=guiabbehusen&layout=compact&langs_count=8&card_width=320&hide_border=true&theme=tokyonight" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=guiabbehusen&layout=compact&langs_count=8&card_width=320&hide_border=true&theme=default" />
