@@ -1,49 +1,73 @@
-<div align="center">
+# Hi, I'm Guilherme 
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Guilherme+Abbehusen;AI+%26+Computer+Vision+Engineer;Building+Scalable+Agentic+Systems" alt="Typing SVG" />
-  </a>
+**Computer Engineering student building backend, automation, and applied AI systems.**  
+Open to **Software Engineering and ML/AI Engineering** opportunities.
 
-  <br/>
-  <i>"Stay hungry, stay foolish."</i>
-  <br/>
-  <br/>
+## Selected projects
 
-  <a href="https://linkedin.com/in/guiabbehusen" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/guiabbehusen" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
+**Automation @ BTG Pactual**  
+Built automation workflows and backend integrations with **AWS, Azure, APIs, and microservices**, helping reduce around **30 hours/month** of manual work.
 
-  <br/><br/>
+**Real-time waste detection with YOLOv8**  
+Developed a computer vision solution for **real-time waste detection** with gamification, reaching around **90% accuracy**. The project won **1st place at the Sustainability Tech Hackathon** and was featured in **Jornal de Brasília**.
 
-  <table>
-    <tr>
-      <td align="center" width="90"><strong>Core</strong></td>
-      <td align="center" width="90"><strong>AI / CV</strong></td>
-      <td align="center" width="90"><strong>Scale</strong></td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=python,ts,cpp&theme=dark" />
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" />
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=aws,docker,fastapi&theme=dark" />
-      </td>
-    </tr>
-  </table>
+**Hyperlocal pollutant exposure forecasting**  
+Built a project for the **NASA Space Apps Challenge** combining a **fuzzy-logic risk index** with **LLM-powered alerts**. The project became a **Global Nominee** and placed **3rd locally**.
 
-  <br/>
+**Autonomous GPT-4 web automation agent**  
+Created an autonomous agent for web automation using **LangChain, LangGraph, and Firecrawl MCP**.
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=guiabbehusen&show_icons=true&theme=buefy&hide_border=true&bg_color=00000000&hide_title=true&count_private=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=guiabbehusen&show_icons=true&theme=buefy&hide_border=true&bg_color=00000000&hide_title=true&count_private=true" />
-    <img height="140" src="https://github-readme-stats.vercel.app/api?username=guiabbehusen&show_icons=true&theme=buefy&hide_border=true&hide_title=true" />
-  </picture>
+## Research & leadership
 
-</div>
+- Undergraduate research on **fine-tuning DistilBERT for health-related text classification**
+- **Project Manager at PMI-DF Student Club**, leading a 5-person team to deliver the club's official website
+
+## Stack
+
+**Python, SQL, Java, JavaScript, AWS, Azure, APIs, microservices, LangChain, LangGraph, TensorFlow, scikit-learn**
+
+## Connect
+
+- LinkedIn: [guiabbehusen](https://www.linkedin.com/in/guiabbehusen/)
+- Email: guisoares1601@gmail.com
+
+---
+
+<details>
+<summary><strong>🇧🇷 Versão em Português</strong></summary>
+
+## Olá, eu sou Guilherme 👋
+
+**Estudante de Engenharia da Computação construindo sistemas de backend, automação e IA aplicada.**  
+Aberto a oportunidades em **Engenharia de Software e Engenharia de ML/IA**.
+
+## Projetos em destaque
+
+**Automação no BTG Pactual**  
+Desenvolvi fluxos de automação e integrações backend com **AWS, Azure, APIs e microsserviços**, ajudando a reduzir cerca de **30 horas/mês** de trabalho manual.
+
+**Detecção de resíduos em tempo real com YOLOv8**  
+Desenvolvi uma solução de visão computacional para **detecção de resíduos em tempo real** com gamificação, alcançando cerca de **90% de acurácia**. O projeto conquistou o **1º lugar no Sustainability Tech Hackathon** e foi destaque no **Jornal de Brasília**.
+
+**Previsão hiperlocal de exposição a poluentes**  
+Desenvolvi um projeto para o **NASA Space Apps Challenge** combinando **índice de risco com lógica fuzzy** e **alertas com LLM**. O projeto foi **Global Nominee** e ficou em **3º lugar localmente**.
+
+**Agente autônomo com GPT-4 para automação web**  
+Criei um agente autônomo para automação web usando **LangChain, LangGraph e Firecrawl MCP**.
+
+## Pesquisa & liderança
+
+- Iniciação científica com foco em **fine-tuning de DistilBERT para classificação de textos na área da saúde**
+- **Project Manager no PMI-DF Student Club**, liderando uma equipe de 5 pessoas para entregar o site oficial do clube
+
+## Stack
+
+**Python, SQL, Java, JavaScript, AWS, Azure, APIs, microsserviços, LangChain, LangGraph, TensorFlow, scikit-learn**
+
+## Contato
+
+- LinkedIn: [guiabbehusen](https://www.linkedin.com/in/guiabbehusen/)
+- Email: guisoares1601@gmail.com
+
+
+</details>
