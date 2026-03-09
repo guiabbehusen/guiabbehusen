@@ -24,7 +24,7 @@ Created an autonomous agent for web automation using **LangChain, LangGraph, and
 
 ## Stack
 
-**Python, SQL, Java, JavaScript, AWS, Azure, APIs, microservices, LangChain, LangGraph, TensorFlow, scikit-learn**
+**Python, SQL, JavaScript, AWS, Azure, APIs, microservices, LangChain, LangGraph, TensorFlow, scikit-learn**
 
 ## Connect
 
@@ -36,7 +36,7 @@ Created an autonomous agent for web automation using **LangChain, LangGraph, and
 <details>
 <summary><strong>🇧🇷 Versão em Português</strong></summary>
 
-## Olá, eu sou Guilherme 👋
+## Olá, eu sou Guilherme
 
 **Estudante de Engenharia da Computação construindo sistemas de backend, automação e IA aplicada.**  
 Aberto a oportunidades em **Engenharia de Software e Engenharia de ML/IA**.
@@ -62,7 +62,7 @@ Criei um agente autônomo para automação web usando **LangChain, LangGraph e F
 
 ## Stack
 
-**Python, SQL, Java, JavaScript, AWS, Azure, APIs, microsserviços, LangChain, LangGraph, TensorFlow, scikit-learn**
+**Python, SQL, JavaScript, AWS, Azure, APIs, microsserviços, LangChain, LangGraph, TensorFlow, scikit-learn**
 
 ## Contato
 
