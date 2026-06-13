@@ -24,7 +24,7 @@ Created an autonomous agent for web automation using **LangChain, LangGraph, and
 
 ## Stack
 
-**Python, SQL, JavaScript, AWS, Azure, APIs, microservices, LangChain, LangGraph, TensorFlow, scikit-learn**
+**Python, SQL, JavaScript, AWS, Azure, microsserviços, LangChain, LangGraph, TensorFlow, scikit-learn, ONNX Runtime, Hugging Face, GCP, PyTorch**
 
 ## Connect
 
