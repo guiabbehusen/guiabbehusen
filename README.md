@@ -1,6 +1,6 @@
 # Hi, I'm Guilherme 
 
-**Computer Engineering student building backend, automation, and applied AI systems.**  
+**Computer Engineering student building backend, automation, and AI/CV systems.**  
 Open to **Software Engineering and ML/AI Engineering** opportunities.
 
 ## Selected projects
@@ -38,7 +38,7 @@ Created an autonomous agent for web automation using **LangChain, LangGraph, and
 
 ## Olá, eu sou Guilherme
 
-**Estudante de Engenharia da Computação construindo sistemas de backend, automação e IA aplicada.**  
+**Estudante de Engenharia da Computação construindo sistemas de backend, automação e IA/CV.**  
 Aberto a oportunidades em **Engenharia de Software e Engenharia de ML/IA**.
 
 ## Projetos em destaque
@@ -62,7 +62,7 @@ Criei um agente autônomo para automação web usando **LangChain, LangGraph e F
 
 ## Stack
 
-**Python, SQL, JavaScript, AWS, Azure, APIs, microsserviços, LangChain, LangGraph, TensorFlow, scikit-learn**
+**Python, SQL, JavaScript, AWS, Azure, microsserviços, LangChain, LangGraph, TensorFlow, scikit-learn, ONNX Runtime, Hugging Face, GCP, PyTorch**
 
 ## Contato
 
