@@ -14,6 +14,9 @@ Developed a computer vision solution for **real-time waste detection** with gami
 **Hyperlocal pollutant exposure forecasting**  
 Built a project for the **NASA Space Apps Challenge** combining a **fuzzy-logic risk index** with **LLM-powered alerts**. The project became a **Global Nominee** and placed **3rd locally**.
 
+**Local semantic photo search with ONNX Runtime**  
+Built a local-first semantic photo search engine using **JinaCLIP, Qdrant, Flask, and ONNX Runtime**, optimizing text-query embedding latency from **~214 ms p50 to ~16.7 ms p50** — around **12.8x median speedup** on Apple Silicon.
+
 **Autonomous GPT-4 web automation agent**  
 Created an autonomous agent for web automation using **LangChain, LangGraph, and Firecrawl MCP**.
 
@@ -51,6 +54,9 @@ Desenvolvi uma solução de visão computacional para **detecção de resíduos 
 
 **Previsão hiperlocal de exposição a poluentes**  
 Desenvolvi um projeto para o **NASA Space Apps Challenge** combinando **índice de risco com lógica fuzzy** e **alertas com LLM**. O projeto foi **Global Nominee** e ficou em **3º lugar localmente**.
+
+**Busca semântica local de fotos com ONNX Runtime**  
+Construí um mecanismo local de busca semântica em fotos usando **JinaCLIP, Qdrant, Flask e ONNX Runtime**, otimizando a latência de embedding de texto de **~214 ms p50 para ~16,7 ms p50** — cerca de **12,8x de speedup mediano** em Apple Silicon.
 
 **Agente autônomo com GPT-4 para automação web**  
 Criei um agente autônomo para automação web usando **LangChain, LangGraph e Firecrawl MCP**.
